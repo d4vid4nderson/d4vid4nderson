@@ -17,7 +17,7 @@ I run **fullstackvibes.io**, where I showcase my work building enterprise AI app
 
 ## Real-World Impact
 
-**VUES Suite** — 6 production AI applications serving 800+ users daily:
+**VUES Suite** — 5 production enterprise AI applications serving 800+ users daily:
 
 - **LegislationVUE**: Python/FastAPI + Azure OpenAI processing **20,000+ legislative documents**, eliminated **$40K+/year** in legal consulting
 - **InitiativeVUE**: Go/HTMX platform with Claude AI for automated status reporting, serving **50+ concurrent users**
@@ -25,7 +25,11 @@ I run **fullstackvibes.io**, where I showcase my work building enterprise AI app
 - **FacilityVUE**: Multi-tenant SaaS platform supporting **100+ organizations** with AI-driven insights
 - **SharePointVUE**: Playwright automation scanning **500+ pages/run** with Claude AI for accessibility analysis
 
-**Tenant Wise**: Next.js SaaS with Claude AI generating Texas Property Code-compliant legal documents, Stripe subscriptions, automated workflows
+**Personal Projects:**
+
+- **Tenant Wise**: Next.js SaaS with Claude AI generating Texas Property Code-compliant legal documents, Stripe subscriptions, automated workflows
+- **Habit-a-Day**: Next.js health tracking platform with Claude AI conversational chatbot for nutrition guidance, PT practice management, calorie estimation from natural language, barcode scanning
+- **AI Status Widget**: macOS Übersicht desktop widget providing real-time service health monitoring for OpenAI and Anthropic APIs via Statuspage integration
 
 ## Tech Stack
 
